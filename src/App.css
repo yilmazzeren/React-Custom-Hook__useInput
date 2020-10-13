@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+label {
+  margin: 10px;
+}
+
+.form {
+  border-radius: 20px;
+  flex-direction: column;
+  display: flex;
+  background: gray;
+  width: 500px;
+  margin: 5px auto;
+  padding: 5px;
+}
